@@ -1,5 +1,5 @@
 # Loss-aware-weight-quantization
-Implementation of ICLR 2018 paper "Loss-aware Weight Quantization of Deep Networks"
+Implementation of ICLR 2018 paper "Loss-aware Weight Quantization of Deep Networks", tested with python 2.7, theano 0.9.0 and lasagne 0.2.dev1.
 
 
 This repository is divided in two subrepositories:
